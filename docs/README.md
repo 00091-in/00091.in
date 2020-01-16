@@ -2,4 +2,10 @@
 
 Your all in one helpline number
 
+B2B Helpline
+
 [Click here to Ask a Question](https://docs.google.com/forms/d/e/1FAIpQLSeftjs5xZhoix2IBm1p_6otksNI4sVNZpkCztClWoxPJgL0OQ/viewform?usp=sf_link)
+
+Areas:
+
+Koramangala | Whitefield | 
