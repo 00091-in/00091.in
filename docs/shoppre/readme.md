@@ -2,5 +2,5 @@
 
 [Website](https://shoppre.com) 
 
-Registered Name: INDIANSHOPPRE LLP
-GST:
+- Registered Name: INDIANSHOPPRE LLP
+- GST:
