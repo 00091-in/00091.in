@@ -1,11 +1,9 @@
 module.exports = {
-  title: 'Vuepress',
-  description: 'This is a Zeit Now 2.0 example',
+  title: '00091.in',
+  description: 'call 833 00 000 91',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-      { text: 'Config Page', link: '/config' },
     ],
   },
   dest: 'public',
